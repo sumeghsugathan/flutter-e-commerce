@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCubEKButRl9yySSe9JMnK6qy61FdpLMpY',
+    apiKey: '',
     appId: '1:778905925906:web:a2a38a53eb638f806f1bcb',
     messagingSenderId: '778905925906',
     projectId: 'nike-new',
@@ -57,7 +57,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDTJstzjMQ8l1ZEGPddcTcmhqXJzwiXeNY',
+    apiKey: '',
     appId: '1:778905925906:android:b21943fe858d01036f1bcb',
     messagingSenderId: '778905925906',
     projectId: 'nike-new',
@@ -65,7 +65,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCKqRPS7vWAuuGSXK_ckGMSY-AJsrW--NU',
+    apiKey: '',
     appId: '1:778905925906:ios:366b4826bc7f1e806f1bcb',
     messagingSenderId: '778905925906',
     projectId: 'nike-new',
